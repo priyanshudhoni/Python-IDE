@@ -1,4 +1,4 @@
-# Pythyon-IDE
+# Python-IDE
 This is an editor where we can write, save and execute python programs.
 The modules used here are tkinter and subprocess.
 Steps to be followed:
