@@ -15,10 +15,10 @@ Any IDE supporting Python will work.
 (Python IDLE, PyCharm, Anaconda)
 You need to save your file before running it.
 Note: Before running your code:
-                           1. Go to Settings
-                           2. Go to Apps
-                           3. Go to Apps & features
-                           4. Go to App execution aliases
+                           1. Go to Settings.
+                           2. Go to Apps.
+                           3. Go to Apps & features.
+                           4. Go to App execution aliases.
                            5. Turn Off App Installer for Python.
 
 
