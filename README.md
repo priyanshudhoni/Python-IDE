@@ -24,4 +24,3 @@ Note: Before running your code:
 
 ![Logo](https://th.bing.com/th/id/OIP.EDwREtDcIKfIv5km6g9x2wHaHN?pid=ImgDet&rs=1)
 ## Screenshot
-![MY_IDE](https://user-images.githubusercontent.com/59824018/170886172-8542e361-27d1-4a6d-976f-3b9e41677da1.png)
