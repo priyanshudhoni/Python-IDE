@@ -35,8 +35,11 @@ def save_as():
 def save():
     if(file_address==''):
     
-         address=asksaveasfilename(filetypes=[('Python Files','*.py')])
-         set_file_path(address)
+        address=asksaveasfilename(filetypes=[('Python Files','*.py')])
+        with open(address,'w') as file:
+          code=editor.get('1.0',END)
+          file.write(code)
+          set_file_path(address)
     else:
         
         with open(file_address,'w') as file:
